@@ -1,8 +1,9 @@
 ---
-
-title:  Lyra goes to Hayward Gallery
+title: Lyra goes to Hayward Gallery
+date: 2024-03-01 00:00:00 Z
 excerpt: We went to an art gallery with my cousins Jack and Max.
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
