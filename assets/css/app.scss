@@ -27,7 +27,7 @@ h1 {
 
 h2 {
     font-size: 40px;  
-    font-weight: bold;
+    font-weight: 700;
   }
 
   h3 {
@@ -79,4 +79,19 @@ h2 {
     height: 500px;
     background-color: $red;
     border-radius: 50%;
+  }
+
+  div.post {
+    h3 {
+        margin-top: 80px;
+    }
+
+    p {
+        max-width: 540px;
+        margin-bottom: 40px;
+    }
+
+    img {
+        max-width: 780px;
+    }
   }
